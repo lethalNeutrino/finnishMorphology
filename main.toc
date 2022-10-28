@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Part 1 --- Phoneme inventory and phonotactics}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{Consonants}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Vowels}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Phonotactics}{12}{0}{1}
+\beamer@sectionintoc {2}{Part 2 --- Phonological Processes}{16}{0}{2}
+\beamer@subsectionintoc {2}{1}{Conditioning of Central Approximants}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Allophones of /h/}{18}{0}{2}
+\beamer@sectionintoc {3}{Sources}{20}{0}{3}
